@@ -1,2 +1,2 @@
-#Github exercise
-print("Hello World")
+varname = input("What's your name?")
+print("Hello "+varname+" to GitHub World")
